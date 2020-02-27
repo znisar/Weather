@@ -6,6 +6,7 @@
       <mapping pattern="Data" type="PLAIN_TEXT" />
       <mapping pattern="CertExpiry" type="Python" />
       <mapping pattern="Exercise 1" type="Python" />
+      <mapping pattern="json reader" type="Python" />
     </extensionMap>
   </component>
 </application>
